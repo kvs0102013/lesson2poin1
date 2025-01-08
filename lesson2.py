@@ -1,4 +1,3 @@
-
 client = "Петя"
 pet = "Кот"
 print(client)
