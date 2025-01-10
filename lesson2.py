@@ -4,10 +4,13 @@
 # print(' и ')
 # print(pet)
 
-r = 'Red'
+# r = 'Red'
 
-g = 'Green'
+# g = 'Green'
 
-b = 'Blue'
+# b = 'Blue'
 
-print(r, b, g, r+g+b, b, g+b)
+# print(r, b, g, r+g+b, b, g+b)
+first_animal = "Заяц"
+second_animal = 'Черепаха'
+print(first_animal , 'спит' , second_animal , 'идет')
